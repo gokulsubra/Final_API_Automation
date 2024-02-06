@@ -1,4 +1,4 @@
-require_relative '../../../common'
+require_relative '../support/common'
 
 Given('an api for to perform a get request') do
   puts "Starting the execution of step"
